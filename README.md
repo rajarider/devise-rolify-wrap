@@ -1,6 +1,8 @@
 1. Download or Clone the file from the repository.
 
-2. To install all the gem via bundler, so using bundle install.
+2. To install all the gem via bundler, so using
+
+ ### 'bundle install'.
 
 3. Go to the config/database.yml and then Change the database name, host, username and password.
 
