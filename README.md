@@ -1,12 +1,10 @@
 1. Download or Clone the file from the repository.
 
-2. To install all the gem via bundler, so using
+** `2. To install all the gem via bundler, so using` bundle install.
 
- ### 'bundle install'.
+** `3. Go to the config/database.yml and then Change the` database name, host, username and password.
 
-3. Go to the config/database.yml and then Change the database name, host, username and password.
-
-4. Created the database using rake db:create.
+** `4. Created the database using` rake db:create.
 
 5. Migrate the tables using rake db:migate.
 
